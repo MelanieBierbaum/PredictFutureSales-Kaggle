@@ -1,7 +1,7 @@
 # PredictFutureSales-Kaggle
 Repository for the solution to the Predict Future Sales Competition on Kaggle
 
-<img src="blob\main\images\competition_logo.jpg">
+<img src="images\competition_logo.jpg">
 <img src="e5kui\src\assets\img\launch\bunda3d5000FloorElevatorControlsFigmaPrototypeFirstScreen.png" height="auto">
 
 My solution is split over four notebooks:
