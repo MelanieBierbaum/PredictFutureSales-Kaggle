@@ -1,7 +1,8 @@
 # PredictFutureSales-Kaggle
 Repository for the solution to the Predict Future Sales Competition on Kaggle
 
-<img width=“964” alt=“competition logo” src=“https:\\github.com\MelanieBierbaum\PredictFutureSales-Kaggle\blob\main\images\competition_logo.jpg”>
+<img src="https:\\github.com\MelanieBierbaum\PredictFutureSales-Kaggle\blob\main\images\competition_logo.jpg">
+
 
 My solution is split over four notebooks:
 
