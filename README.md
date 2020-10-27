@@ -11,7 +11,7 @@ My solution is split over four notebooks:
 
 2 . PFS-Feature Engineering 1: Label Encoding, Mean Encoding, Feature Generation.
 
-3 . PFS-Model: Train, validation, test split. Model is Light GBM --—— it scored 0,90692 on the public leaderboard    
+3 . PFS-Model: Train, validation, test split. Model is Light GBM --—— it scored 0,90692 on the public leaderboard (top 20% at the time of submission, not bad for a newbie)   
     -> This notebook generates finalized_model.sav
     
 4 . PFS-Ensembling: Linear Regression + Light GBM with simple mix and stacking with LR    
